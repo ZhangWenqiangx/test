@@ -59,7 +59,6 @@ flutter:
   uses-material-design: true
 
 fonts:
-  - family: TestFont
+  - family: cn
     fonts:
       - asset: fonts/msyh.ttc
-        weight: 700
